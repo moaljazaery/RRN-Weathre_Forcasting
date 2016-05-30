@@ -1,0 +1,26 @@
+This is the percentage of missing values for each attribut:
+
+{
+temp_max is missing  0 % of its values
+temp_min is missing  0 % of its values
+temp_avg is missing  0 % of its values
+temp_dep is missing  8 % of its values
+temp_hdd is missing  0 % of its values
+temp_cdd is missing  0 % of its values
+water is missing  11 % of its values
+Snow is missing  24 % of its values
+snow_depth is missing  24 % of its values
+wind_speed_avg  0 % of its values
+wind_speed_max  0 % of its values
+wind_dir  0 % of its values
+sunshine_min is missing  99 % of its values
+sunshine_percent is missing  99 % of its values
+sky_cover is missing  2 % of its values
+weather_type is missing  51 % of its values
+wind_highest_speed is missing  5 % of its values
+wind_highest_dir is missing  6 % of its values
+}
+
+output.csv : is the file after filling the missing values
+normalized_minmax: is the file after min max normalization in intervall [-1,1]
+normalized_zcore: is the file after z-score normalization
